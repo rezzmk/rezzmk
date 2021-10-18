@@ -7,10 +7,7 @@
   <a href="mailto: rezzmk@protonmail.com">Hit me up</a>
 </p>
 
-- 💬 You can ask me about `C#` and `.NET` in general, which is what I'm most familiar with
-- 💬 You can ask me about `Rust`, `Go`, `Python`, `Bash`, `Powershell` and anything else you may find in my repos
-- ⚡ I've been working with computers for about 20 years now (started early 😄).
-- ⚡ I really, really, really hate emojis but this page had a bunch of them up for grabs on its initial template 🤔
+- 💬 You can ask me about `C#`, `.NET`, `Rust`, `Python`, `Bash`, `Powershell`, ...
 
 ## Latest Blog Posts
 - [Installing Kali Linux on WSL with a Desktop Environment](https://mcaramalho.com/installing-kali-linux-on-wsl-with-a-desktop-environment/)
