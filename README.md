@@ -1,4 +1,4 @@
-<h2 align="center">👋, welcome to my humble code trashcan, my name is Marcos (aka rezz), I'm based in Portugal and I write code for a living (doesn't mean it's good)</h2>
+<h2 align="center">👋, welcome to my humble code trashcan</h2>
 <p align="center">
   <a href="https://mcaramalho.com">Blog/Website/Dumpster_Of_Ideas</a>
   <br>
