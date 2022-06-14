@@ -2,7 +2,7 @@
 <p align="center">
   <a href="https://mcaramalho.com">Blog/Website/Dumpster_Of_Ideas</a>
   <br>
-  <a href="https://twitter.com/rezzxbt">Twitter (hey, it's mostly crypto stuff and very high levels of `possibly adderal` fueled behavior)</a>
+  <a href="https://twitter.com/rezzxbt">Twitter (hey, it's mostly crypto stuff and very high levels of hypeman fueled behavior)</a>
   <br>
   <a href="mailto: rezzmk@protonmail.com">Hit me up</a>
 </p>
