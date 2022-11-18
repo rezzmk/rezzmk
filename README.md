@@ -4,10 +4,10 @@
   <br>
   <a href="https://twitter.com/rezzxbt">Twitter (hey, it's mostly crypto stuff and very high levels of hypeman fueled behavior)</a>
   <br>
-  <a href="mailto: rezzmk@protonmail.com">Hit me up</a>
+  <a href="mailto: marcos.caramalho@gmail.com">Hit me up</a>
 </p>
 
-- 💬 You can ask me about `C#`, `.NET`, `Rust`, `Python`, `Bash`, `Powershell`, ...
+- 💬 You can ask me about `C#`, `.NET`, `Rust`, `Python`, `Bash`, `Powershell`, `Hacking`, whatever, if I don't know it, I'll try to help either way (we're all learning here) ...
 
 ## Latest Blog Posts
 - [Installing Kali Linux on WSL with a Desktop Environment](https://mcaramalho.com/installing-kali-linux-on-wsl-with-a-desktop-environment/)
