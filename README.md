@@ -11,5 +11,5 @@
 
 ## Latest Blog Posts
 - [Global EF Core WITH (NOLOCK) on All Queries](https://mcaramalho.com/posts/global-with-nolock-dotnet-efcore/)
-- [Dependency Injection in .NET Core](https://mcaramalho.com/dependency-injection-in-net-core/](https://mcaramalho.com/posts/dependency-injection/)
+- [Dependency Injection in .NET Core](https://mcaramalho.com/posts/dependency-injection/)
 - [.NET Core – Add additional configuration sources to IConfiguration](https://mcaramalho.com/posts/netcore-add-additional-configuration-sources-to-iconfig/)
