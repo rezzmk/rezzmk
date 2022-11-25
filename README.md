@@ -1,9 +1,7 @@
 <h2 align="center">👋, welcome to my humble code trashcan</h2>
 <p align="center">
   <a href="https://mcaramalho.com">Blog/Website/Dumpster_Of_Ideas</a>
-  <br>
-  <a href="https://twitter.com/rezzxbt">Twitter (hey, it's mostly crypto stuff and very high levels of hypeman fueled behavior)</a>
-  <br>
+  <br>  
   <a href="mailto: marcos.caramalho@gmail.com">Hit me up</a>
 </p>
 
