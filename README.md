@@ -8,6 +8,8 @@
 - 💬 You can ask me about `C#`, `.NET`, `Rust`, `Python`, `Bash`, `Powershell`, `Hacking`, whatever, if I don't know it, I'll try to help either way (we're all learning here) ...
 
 ## Latest Blog Posts
+- [Reading a file the 1337 way](https://mcaramalho.com/posts/reading-files-1337/)
+- [Rendering LaTeX in Astro](https://mcaramalho.com/posts/astro-blog-latex/)
 - [A possibly better Data Encryption Standard](https://mcaramalho.com/posts/enhanced-data-encryption-standard/)
 - [PKCS#7 Padding Primer](https://mcaramalho.com/posts/pkcs7-padding/)
 - [Global EF Core WITH (NOLOCK) on All Queries](https://mcaramalho.com/posts/global-with-nolock-dotnet-efcore/)
