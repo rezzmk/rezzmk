@@ -2,7 +2,7 @@
 <p align="center">
   <a href="https://mcaramalho.com">Blog/Website/Dumpster_Of_Ideas</a>
   <br>  
-  <a href="mailto: marcos.caramalho@gmail.com">Hit me up</a>
+  <a href="mailto: rezzmk@protonmail.com">Hit me up</a>
 </p>
 
 - 💬 You can ask me about `C#`, `.NET`, `Rust`, `Python`, `Bash`, `Powershell`, `Hacking`, whatever, if I don't know it, I'll try to help either way **(we're all learning here)** ...
