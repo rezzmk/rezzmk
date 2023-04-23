@@ -7,7 +7,7 @@
 
 - 💬 You can ask me about `C#`, `.NET`, `Rust`, `Python`, `Bash`, `Powershell`, `Hacking`, whatever, if I don't know it, I'll try to help either way **(we're all learning here)** ...
 
-## Latest Blog Posts
+## Latest Blog Posts ([RSS Here](https://mcaramalho.com/rss.xml))
 - [Writting a Chip-8 Emulator, in Rust](https://mcaramalho.com/posts/rust-chip8-emulator/)
 - [What happens when you compile a program?](https://mcaramalho.com/posts/what-happens-in-compilation/)
 - [Intro to Windows Message Loops and Hooking](https://mcaramalho.com/posts/windows-hooks/)
